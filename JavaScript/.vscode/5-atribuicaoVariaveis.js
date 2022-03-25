@@ -8,3 +8,8 @@ console.log(`Meu nome é ${nome} ${sobrenome}`);
 
 const nomeCompleto = nome + sobrenome;
 console.log(nomeCompleto);
+
+let idadeDois; //declarando variável
+idadeDois = 27; //atribuindo valor
+idadeDois = idade+1;
+console.log(idadeDois);
