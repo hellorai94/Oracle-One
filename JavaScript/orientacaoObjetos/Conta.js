@@ -1,5 +1,9 @@
 export class Conta {
   constructor(saldoInicial, cliente, agencia) {
+    if (this.constructor == Conta) {
+     throw new Error("Você não deveria instaciar um objeto do tipo conta");
+    }
+
     this._saldo = saldoInicial;
     this._cliente = cliente;
     this._agencia = agencia;
@@ -43,7 +47,4 @@ export class Conta {
     conta.depositar(valorSacado);
   }
 
-  teste() {
-    console.log("teste na classe conta");
-  }
 }
