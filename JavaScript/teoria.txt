@@ -1,3 +1,5 @@
 # 13-04-22 #
 
 throw;
+
+classe abtrata;
