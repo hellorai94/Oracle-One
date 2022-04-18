@@ -3,3 +3,39 @@
 throw;
 
 classe abtrata;
+
+#18-04-22#
+
+
+• class: é uma lista das classes de um elemento, separada por espaços. Classes permitem a CSS e Javascript selecionar e acessar elementos 
+específicos através dos seletores de classe ou funções como o método DOM document.getElementsByClassName. Apesar da especificação não impor requesitos sobre os nomes 
+de classes, é considerada boa prática usar nomes que descrevam o propósito semântico do elemento, em vez de sua representação (e.g. atributo para descrever um 
+atributo em vez de ítalico, mesmo que um elemento desta classe possa ser representado por ítalico). Nomes baseados em semântica permanecem coerentes mesmo se a 
+representação da página mude.
+
+• export: é utilizado quando criamos módulos JavaScript para exportar ligações em tempo real para suas funções, objetos ou valores primitivos de um módulo sejam 
+utilizados por outros programas através de declarações import. Ligações que são exportadas ainda podem ser modificadas localmente; quando importadas, embora elas 
+possam ser lidas somente pelo módulo que as importou, seu valor é atualizado sempre que ela modificada pelo módulo que a exportou. Módulos exportados ficam em strict
+mode, independentemente se é declarado dessa forma, ou não. Export não pode ser utilizado em scripts embutidos.
+
+Sintaxe
+- Há dois tipos de exportação:
+
+- Exportações Explícitas (Named Exports) (Zero ou mais exports por módulo);
+- Exportações Padrão (Default Exports) (Uma por módulo).
+
+
+
+- constructor;
+
+- class;
+
+- extends;
+
+- import;
+
+- from;
+
+- const;
+
+- static;
