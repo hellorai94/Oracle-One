@@ -39,3 +39,10 @@ Sintaxe
 - const;
 
 - static;
+
+
+# 26-04-22# 
+
+- polimorfismo;
+
+- duck type;
