@@ -1,0 +1,4 @@
+# 26-04-22 #
+
+assests: onde coloca todos os arquivos estáticos;
+
