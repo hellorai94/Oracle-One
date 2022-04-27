@@ -1,4 +1,9 @@
 # 26-04-22 #
 
-assests: onde coloca todos os arquivos estáticos;
+- assests: onde coloca todos os arquivos estáticos;
 
+- o ''.'' faz busca de classes;
+
+- atomic design;
+
+- metodologia BEM;
