@@ -1,0 +1,12 @@
+- Oracle 
+
+# 10-05-22 #
+• flexbox:
+
+- order: mudar a ordem de posicionamento dos elementos;
+- existem propriedades que definimos nos pais e outras nos filhos;
+- flex-grow: distribui os espaços entre os elementos;
+
+# 11-05-22 #
+
+- flex-basic: define o tamanho principal inicial de um item flexível;

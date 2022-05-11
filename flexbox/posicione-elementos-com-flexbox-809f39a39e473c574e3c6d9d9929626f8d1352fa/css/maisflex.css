@@ -18,5 +18,10 @@ div:nth-child(8) {background-color: silver;}
 }
 
 .flexItem {
-  flex-grow: 1;
+  flex: 0 1 200px;
+}
+
+.primeiro {
+  /* flex-grow: 3; 
+  flex-shrink: 2; */
 }
